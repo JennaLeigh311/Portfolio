@@ -21,8 +21,8 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Jenna Leigh - Portfolio" />
-        <title>Jenna Leigh - Portfolio</title>
+        <meta name="description" content="Jenna's Website" />
+        <title>Jenna's Website</title>
       </head>
       <body className={`${montserrat.className} antialiased`}>
         <ClientLayout geist={_font} geistMono={_fontMono}>

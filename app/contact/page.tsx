@@ -63,7 +63,7 @@ export default function Contact() {
 
             <div className="p-6 bg-card border border-border rounded-2xl text-center glow-accent">
               <h3 className="font-semibold mb-2">Based In Spokane, WA</h3>
-              <p className="text-foreground/80 text-sm">Available for remote work and relocation</p>
+              <p className="text-foreground/80 text-sm">Available for remote work or relocation</p>
             </div>
             <div className="p-6 bg-card border border-border rounded-2xl text-center glow-accent">
               <h3 className="font-semibold mb-2">Availability</h3>
