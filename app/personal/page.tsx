@@ -61,7 +61,20 @@ export default function Personal() {
               </div>
             </div>
           </div>
+
+          
         </div>
+      </section>
+      <section className="px-80 pb-30 flex justify-center">
+        <iframe
+          style={{ borderRadius: "50px" }}
+          src="https://open.spotify.com/embed/track/5xaFYSG9oSO9vHV23t281o?utm_source=generator&theme=0"
+          width="100%"
+          height="352"
+          frameBorder="0"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy"
+        ></iframe>
       </section>
       <Footer />
     </main>
