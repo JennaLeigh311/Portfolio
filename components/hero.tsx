@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="text-center space-y-6 max-w-3xl">
         <h1 className="text-5xl sm:text-6xl font-bold tracking-tight text-balance">Hi, I'm Jenna Leigh</h1>
         <p className="text-lg sm:text-xl text-muted-foreground text-balance">
-          Computer Science Student | Rewriting the Code Member
+          Computer Science Student 27' | Rewriting the Code Member
         </p>
         <div className="pt-4">
           <a
